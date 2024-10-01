@@ -38,15 +38,15 @@ OrganizationAdopting a DevOps mindset can bring about significant benefits for y
 # The Deveops Flow 
  ![image](https://github.com/user-attachments/assets/610d3fe5-f596-40a8-92cf-eee17bf5a851)
 
- # Git Hub :
-Git is not Github. Git is the version control software, and
+ # Git Hub : 
+ Git is not Github. Git is the version control software, and
 Github is a git repository hosting service which offers all
 the source code management provided in git. Github is
 where you upload your git repository.
 
      # Centralized Version Controlling:The systems such as CVS, Subversion, and Perforcehave a single server that contains all the versioned files, and a number of clients that check out files from that central place.
      
-     #Distributed Version Controlling:In a DVCS (such as Git), clients don’t just check out the lates snapshot ofthe files; rather, they fully mirror the repository, including its full history.Thus, if any server dies, and these systems were collaborating via thatserver, any of the client repositories can be copied back up to the server to restore it. Every clone is really a 
+     # Distributed Version Controlling:In a DVCS (such as Git), clients don’t just check out the lates snapshot ofthe files; rather, they fully mirror the repository, including its full history.Thus, if any server dies, and these systems were collaborating via thatserver, any of the client repositories can be copied back up to the server to restore it. Every clone is really a 
 full backup of all the data
 
 ![image](https://github.com/user-attachments/assets/4bf8f8c4-c0e7-48cb-8d9a-0d4620f4ed5a)
@@ -65,7 +65,7 @@ full backup of all the data
 # untracked
         •git log → Show recent commit history
         •git show “commit_id” → show details of specific commit
-•git stash → stash working directory
-•git help → manpages for git
-•git help “gitCommand” → man pages for specific git
-command
+        •git stash → stash working directory
+        •git help → manpages for git
+        •git help “gitCommand” → man pages for specific git
+         command
